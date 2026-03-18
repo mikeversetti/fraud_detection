@@ -1,0 +1,5 @@
+afvenv/
+notebooks/
+data/
+model.pkl
+test.ipynb
